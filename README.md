@@ -1,3 +1,3 @@
-# vibescout-privacy
-VibeScout Privacy Policy
-https://kwizard1.github.io/vibescout-privacy/
+# faeros-privacy
+Faeros Privacy Policy
+https://kwizard1.github.io/faeros-privacy/
